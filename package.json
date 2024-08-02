@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js",
     "type": "module"
+=======
+   
+>>>>>>> d428062eaac7e07c5aa829d7b6ff3c65e4bcefb3
   },
   "author": "",
   "license": "ISC",
